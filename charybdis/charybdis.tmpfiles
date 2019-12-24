@@ -2,3 +2,4 @@ d /run/charybdis 0750 charybdis charybdis -
 d /etc/charybdis 0750 charybdis charybdis -
 d /var/charybdis 0750 charybdis charybdis -
 d /var/log/charybdis 0750 charybdis charybdis -
+d /var/lib/charybdis 0750 charybdis charybdis -
